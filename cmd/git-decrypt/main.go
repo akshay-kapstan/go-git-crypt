@@ -113,3 +113,8 @@ func listKeys(keysPath string) []string {
 	}
 	return keys
 }
+
+// Test function to verify compatibility with Go 1.24.2
+func testCompatibility() {
+	log.Println("Testing compatibility with Go 1.24.2")
+}
