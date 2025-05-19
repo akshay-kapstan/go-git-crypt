@@ -3,6 +3,8 @@ package gitcrypt
 import (
 	"os"
 	"testing"
+
+	"github.com/akshay-kapstan/go-git-crypt/gpg"
 )
 
 func Test_Key(t *testing.T) {

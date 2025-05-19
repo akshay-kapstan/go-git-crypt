@@ -7,6 +7,8 @@ import (
 	"io"
 	"log"
 	"os"
+
+	"github.com/akshay-kapstan/go-git-crypt/gpg"
 )
 
 // KeyFromFile instantiates a new key from a specified file

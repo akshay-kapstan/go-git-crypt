@@ -11,8 +11,8 @@ import (
 	"strings"
 
 	"github.com/ProtonMail/go-crypto/openpgp"
-	gitcrypt "github.com/jbuchbinder/go-git-crypt"
-	"github.com/jbuchbinder/go-git-crypt/gpg"
+	gitcrypt "github.com/akshay-kapstan/go-git-crypt"
+	"github.com/akshay-kapstan/go-git-crypt/gpg"
 )
 
 var (

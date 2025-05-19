@@ -10,7 +10,7 @@ import (
 	"strings"
 
 	"github.com/ProtonMail/go-crypto/openpgp"
-	"github.com/jbuchbinder/go-git-crypt/gpg"
+	"github.com/akshay-kapstan/go-git-crypt/gpg"
 )
 
 /*
