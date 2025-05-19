@@ -1,14 +1,14 @@
-module github.com/jbuchbinder/go-git-crypt
+module github.com/akshay-kapstan/go-git-crypt
 
 go 1.24
 
 toolchain go1.24.2
 
-replace github.com/jbuchbinder/go-git-crypt/gpg => ./gpg
+replace github.com/akshay-kapstan/go-git-crypt/gpg => ./gpg
 
 require (
 	github.com/ProtonMail/go-crypto v1.1.5
-	github.com/jbuchbinder/go-git-crypt/gpg v0.0.0-20240127160537-0b99b456d912
+	github.com/akshay-kapstan/go-git-crypt/gpg v0.0.0-20240127160537-0b99b456d912
 	golang.org/x/tools v0.30.0
 )
 
