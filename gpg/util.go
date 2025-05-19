@@ -12,4 +12,3 @@ func fileExists(name string) bool {
 	}
 	return true
 }
-
