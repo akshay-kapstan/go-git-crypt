@@ -1,4 +1,4 @@
-module github.com/jbuchbinder/go-git-crypt/gpg
+module github.com/akshay-kapstan/go-git-crypt/gpg
 
 go 1.23
 
