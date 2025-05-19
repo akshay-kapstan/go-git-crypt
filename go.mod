@@ -9,6 +9,7 @@ replace github.com/akshay-kapstan/go-git-crypt/gpg => ./gpg
 require (
 	github.com/ProtonMail/go-crypto v1.1.5
 	github.com/akshay-kapstan/go-git-crypt/gpg v0.0.0-20240127160537-0b99b456d912
+	github.com/jbuchbinder/go-git-crypt/gpg v0.0.0-20250212141212-325ebd1e616b
 	golang.org/x/tools v0.30.0
 )
 
