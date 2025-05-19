@@ -1,8 +1,8 @@
 module github.com/jbuchbinder/go-git-crypt/cmd/git-crypt-add-key
 
-go 1.23
+go 1.24
 
-toolchain go1.23.2
+toolchain go1.24.2
 
 replace (
 	github.com/jbuchbinder/go-git-crypt => ../..
